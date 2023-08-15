@@ -1,3 +1,3 @@
 # studybuddy
 
-# This is an practice website for writing django framework for internship at NECTEC
+## This is an practice website for developing django framework for internship at NECTEC
